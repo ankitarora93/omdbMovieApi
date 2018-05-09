@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.search-container {
+  margin-top: 20px;
+}
+
+#movie-id {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#movie-title {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#movie-year {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.movie-info {
+  margin-top: 10px;
+}
