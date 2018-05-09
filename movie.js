@@ -5,7 +5,7 @@ $(document).ready(function() {
 });
 
 let fetchMovieDetails = () => {
-  let searchString = "http://www.omdbapi.com/?";
+  let searchString = "https://www.omdbapi.com/?";
   let flag = false;
   let id = $('#id').val().trim();
   let title = $('#title').val().trim();
